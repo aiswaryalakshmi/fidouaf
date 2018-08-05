@@ -8,7 +8,6 @@ MANIFEST.MF
 /cobertura.ser
 */ebay.log
 *.class
-*.jar
 *.zip
 */target/*
 */temp_persist_config_*.xml
